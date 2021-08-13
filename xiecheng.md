@@ -81,13 +81,6 @@ while(k<86):
             except Exception:
                 continue
 
-       #comment=item.find(attrs={'class': 'bottomcomment'}).string.strip()
-       #table.cell(i, 6).value = comment
-            print(k)
-            #print(dd)
-            #print(price)
-            #print("aaaaaaaa")
-
             i = i+1
     data.save("xiecheng.xlsx")
 
