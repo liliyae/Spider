@@ -1,4 +1,3 @@
-```python
 # For research
 # From IMDB get movie information, including summary and video interface links.
 # Static pages can be directly obtained using such as beautiful soup、xpath or request package .
@@ -215,4 +214,3 @@ if __name__ == '__main__':
     s.run()
 
 
-```
