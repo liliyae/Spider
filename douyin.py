@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 #for research progress
+# 抖音之前可以用构造链接的方式直接获取，后来抖音升级后不能这样获取了，但是也有可能是我构造的链接不对，或者我被反爬了
 import urllib
 import os
 import time
